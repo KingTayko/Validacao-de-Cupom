@@ -8,7 +8,7 @@
   "main": "cupom.js",
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
